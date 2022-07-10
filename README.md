@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @baz14
+- 👀 I’m interested in web technology.
+- My LinkedIn - http://www.linkedin.com/in/baz14
