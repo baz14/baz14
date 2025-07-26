@@ -4,7 +4,7 @@
 
 🏁 My goal is to build scalable, privacy-respecting digital infrastructure and contribute to impactful, real-world applications in GIS and smart city development  
 
-🔗 X - @baziliy14   
+🔗 X - [@baziliy14](https://x.com/baziliy14)   
 🔗 GitHub - https://baz14.github.io  
 🔗 LinkedIn - http://www.linkedin.com/in/baz14  
  
