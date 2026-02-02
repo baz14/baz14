@@ -2,7 +2,7 @@ Hi, I’m [@baz14](https://baz14.github.io)
 
 I’m a Software Engineer focused on GIS systems (QGIS, ArcGIS), and Digital Twin technologies, with a strong foundation in web development (JavaScript, React, Angular, Node.js) and Python for GIS
 
-My goal is to build scalable, privacy-respecting digital infrastructure and contribute to impactful, real-world applications in GIS and smart city development
+My goal is to contribute to impactful, real-world applications in GIS and smart city development
 
 <img src="https://github.com/fluidicon.png" alt="GitHub" width="16" /> - https://baz14.github.io  
 <img src="https://static.licdn.com/sc/h/9lb1g1kp916tat669q9r5g2kz" alt="LinkedIn" width="16" /> - http://www.linkedin.com/in/baz14  
